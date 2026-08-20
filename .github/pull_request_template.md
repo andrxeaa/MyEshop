@@ -40,4 +40,4 @@
 
 ## Notas para la persona revisora
 
-<!-- Riesgos, decisiones, cosas a mirar con más atención -->
+<!-- Riesgos, decisiones, cosas a mirar con más atención. hola cambio? -->
